@@ -286,6 +286,10 @@ Here you will find project details, exchange of experiences, and solutions to va
   1. **Added an offline version of the launcher**:  
      Users can now use the application without an internet connection. Core functionality remains available in offline mode.
 
+  2. **Compiled and ready-to-use version available**:  
+     You can download the latest build from the [Releases section](https://github.com/war100ck/blade-soul-game-launcher/releases).
+
 </details>
+
 
 
