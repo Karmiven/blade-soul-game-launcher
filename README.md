@@ -279,3 +279,13 @@ For further information and discussions related to the **Blade & Soul Game API S
 
 Here you will find project details, exchange of experiences, and solutions to various technical issues related to the setup and launch of the Blade & Soul API server.
 
+## Additions / Fixes
+<details>
+  <summary><b>Change Log: 06/08/2025</b></summary>
+
+  1. **Added an offline version of the launcher**:  
+     Users can now use the application without an internet connection. Core functionality remains available in offline mode.
+
+</details>
+
+
