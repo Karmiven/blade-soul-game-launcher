@@ -81,18 +81,23 @@ This launcher is **designed to work only with specific API servers**, which can 
     git clone https://github.com/war100ck/blade-soul-game-launcher.git
     cd blade-soul-game-launcher
     ```
+   This clones the project from GitHub and navigates into the project folder.    
 
-2. Ensure you have all necessary dependencies installed, including Node.js and npm. Before building the launcher, run the following command to install all required packages:
-
-    ```bash
-    npm install
-    ```
-
-3. Build the launcher using the command:
+2. Install dependencies locally via the installer batch file:
 
     ```bash
-    npm run build
+    Install.bat
     ```
+    This creates a package.json file and installs all required Node.js dependencies locally.
+    node_modules folder will be generated in your project folder.
+
+3. Build the launcher using the build batch file:
+
+    ```bash
+    build.bat
+    ```
+    This compiles the launcher using electron-builder.
+    The output executable and release files will be placed in the "win-unpacked" folder.
 
 ---
 
